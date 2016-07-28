@@ -1,7 +1,7 @@
 {
   "name": "ng-fullstack",
   "version": "0.0.1",
-  "main": "src/ng-fullstack.js",
+  "main": "index.ts",
   "scripts": {
     
     "start": "node index",
